@@ -1,1 +1,13 @@
+This project analyzes patient drug reviews to identify and classify medical conditions, helping healthcare providers understand patient experiences and feedback more effectively.
+
+- Applied **Natural Language Processing (NLP)** techniques to preprocess patient reviews.
+- Implemented **machine learning models** for condition classification.
+- Delivered insights to improve patient feedback analysis and support better healthcare decision-making.
+
+## Features
+- Text preprocessing (tokenization, stopword removal, lemmatization, etc.)
+- Machine learning classification models (Logistic Regression, SVM, Random Forest, etc.)
+- Evaluation with accuracy, precision, recall, and F1-score.
+## Dataset
+The dataset consists of patient drug reviews with associated conditions and ratings.  
 
