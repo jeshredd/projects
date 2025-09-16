@@ -1,1 +1,15 @@
+This project focuses on forecasting hourly electricity demand to help energy providers and grid operators optimize resource allocation and reduce operational costs.
+
+## Overview
+- Developed and trained machine learning models using historical consumption data.
+- Provided accurate demand forecasts to support efficient energy distribution.
+- Helped minimize operational costs by optimizing grid resource allocation.
+
+## Features
+- Data preprocessing and feature engineering from time-series datasets.
+- Forecasting models: ARIMA, Random Forest Regressor, Gradient Boosting, etc.
+- Model evaluation with RMSE, MAE, and R² metrics.
+## Dataset
+The dataset includes historical hourly electricity consumption data.  
+
 
